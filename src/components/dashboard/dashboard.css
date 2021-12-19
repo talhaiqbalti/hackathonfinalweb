@@ -1,0 +1,94 @@
+.card{
+    margin: 5%;
+    padding: 5%;
+    border: 2px solid black;
+}
+.dataName{
+   display: inline-block;
+    margin-top: -2%;
+    margin-left: 2%;
+}
+.dataNamecol{
+    display: inline-block;
+    margin-top: -2%;
+}
+.datafnamecol{
+    display: inline-block;
+    margin-top: -2%;
+
+}
+.fname{
+    display: inline-block;
+    margin-top: -2%;
+    margin-left: 2%;
+}
+.cniccol{
+    display: inline-block;
+    margin-top: -2%;
+}
+.cnic{
+  display: inline-block;
+    margin-top: -2%;
+    margin-left: 2%;
+}
+.familycol{
+    display: inline-block;
+    margin-top: -2%;
+    font-weight: bold;
+}
+.family{
+    display: inline-block;
+    margin-top: -2%;
+    margin-left: 2%;
+
+}
+.dobcol{
+    display: inline-block;
+    margin-top: -2%;
+    font-weight: bold;
+}
+.foodcol{
+    display: inline-block;
+    margin-top: -2%;
+    font-weight: bold;
+}
+.incomecol{
+    display: inline-block;
+    margin-top: -2%;
+    font-weight: bold;
+}
+.uidcol{
+    display: inline-block;
+    margin-top: -2%;
+    font-weight: bold;
+}
+.branchcol{
+    display: inline-block;
+    margin-top: -2%;
+    font-weight: bold;
+}
+.dob{
+    display: inline-block;
+    margin-top: -2%;
+    margin-left: 2%;
+}
+.food{
+    display: inline-block;
+    margin-top: -2%;
+    margin-left: 2%;
+}
+.income{
+    display: inline-block;
+    margin-top: -2%;
+    margin-left: 2%;
+}
+.uid{
+    display: inline-block;
+    margin-top: -2%;
+    margin-left: 2%;
+}
+.branch{
+    display: inline-block;
+    margin-top: -2%;
+    margin-left: 2%;
+}
